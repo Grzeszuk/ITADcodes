@@ -1,0 +1,29 @@
+﻿1. Kopiujemy plik apk na androidzie, bundle oraz cetryfikat na windows phone na swoje urządzenie.
+
+2. Wchodzimy w urządzeniu w ekspolator plików wchodzimy do katalogu z aplikacją i instalujemy naszą aplikacje.
+   Na windows phone pierw musimy dodać plik z certyfikatem.
+
+3. Na niektórych urządzeniach może wyświetlić się prośba o włączenie instalacji
+   z nieznanych źródeł na android lub opcji developera na windows phone. Należy włączyć wtedy tą opcje.
+
+4. Po zainstalowaniu się powinna pojawić się aplikacja qr itad z ikoną itadu 
+   w menu naszego urządzenia.
+   
+5. Jeśli nie masz danych do logowania z bazy itadu możesz zalogować się jako
+   "Damian Kowalczyk" z hasłem "KTU". Jednakże trzeba pamiętać że można być 
+   zalogowanym na jednym urządzeniu wiec jeśli będzie zalogowane wiele osób
+   na jedno konto można mieć problemy z testowaniem.
+   
+6. Po zalogowaniu powinno pojawić się okno aplikacji. Aby zacząć skanowanie
+   należy kamerą najechać na przygotowane kody qr (inne nie działają). Skanowanie
+   jest automatyczne kiedy aplikacja wykryje kod.
+   
+7. Po zeskanowaniu kodu punkty wyskakuje tylko plansza z informacją.
+
+8. Po zeskanowaniu kodu pytania wyskakuje plansza na której trzeba odpowiedzieć na 
+   dwa pytania. Klikamy wybierz odpowiedź na androidzie wyskoczy plansza z karuzelą
+   na windowsie rozwinie się lista. Po wybraniu odpowiedzieć klikamy potwierdź a jeśli
+   nie chcemy odpowiadać można od razu nacisnąć anuluj.
+   
+9. W górnym prawym rogu znajduje się przycisk Twoje wyniki który pobiera informacje
+   z serwera o naszym stanie punktów i zeskanowanych kodów.
